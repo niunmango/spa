@@ -1,0 +1,65 @@
+url: https://niunmango.github.io/
+baseurl: /spa
+
+# Site settings
+title: Mi nombre
+email: your-email@domain.com
+description: "Un Spa a tu medida"
+
+
+# Team names, titles and social links
+people:
+- name: Yami
+  pic: 1
+  position: Instructora
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Alguien
+  pic: 2
+  position: Masajista
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Alguien más
+  pic: 3
+  position: Depiladora
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Avda. Corrientes 348
+  - line: Viedma, 8500
+
+# Build settings
+markdown: kramdown
+permalink: pretty
